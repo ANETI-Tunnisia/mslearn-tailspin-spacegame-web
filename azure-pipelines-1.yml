@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name: Web Code Space
+  name: WebCodeSpace
 
 variables:
   solution: '**/*.sln'
